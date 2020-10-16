@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl'
+import {Main} from './components/main'
+
 
 function App() {
   return (
@@ -26,6 +28,7 @@ function App() {
         </Drawer>
         <Content>
             <div className="page-content" />
+            <Main/>
         </Content>
     </Layout>
 </div>
