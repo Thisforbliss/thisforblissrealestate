@@ -13,18 +13,18 @@ function App() {
     <Layout>
         <Header title="Title" scroll>
             <Navigation>
-                <Link to="aboutus"> About Us</Link>
-                <Link to="/">Link</Link>
-                <Link to="/">Link</Link>
-                <Link to="/">Link</Link>
+                <Link to="aboutUs"> About Us</Link>
+                <Link to="cashOffer"> Cash Offer</Link>
+                <Link to="sellerFinance"> Seller Finance</Link>
+                <Link to="investorListings"> investor Listings</Link>
             </Navigation>
         </Header>
         <Drawer title="Title">
             <Navigation>
-                <Link to="aboutus"> About Us</Link>
-                <Link to="/">Link</Link>
-                <Link to="/">Link</Link>
-                <Link to="/">Link</Link>
+            <Link to="aboutUs"> About Us</Link>
+                <Link to="cashOffer"> Cash Offer</Link>
+                <Link to="sellerFinance"> Seller Finance</Link>
+                <Link to="investorListings"> investor Listings</Link>
             </Navigation>
         </Drawer>
         <Content>
