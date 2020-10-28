@@ -11,7 +11,7 @@ function App() {
     
     <div className="demo-big-content">
     <Layout>
-        <Header title="Title" scroll>
+        <Header className= "header-color" title="Title" scroll>
             <Navigation>
                 <Link to="aboutUs"> About Us</Link>
                 <Link to="cashOffer"> Cash Offer</Link>
