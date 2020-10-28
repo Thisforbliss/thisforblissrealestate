@@ -14,7 +14,7 @@ class LandingPage extends Component {
                         <div className="banner-text">
                             <h1>ThisForBliss RealEstate</h1>
                         <hr/>
-                        
+                        <p>Helping in |Purchasing of Property| Selling of Property|</p>
                         </div>
                    
                    
