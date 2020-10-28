@@ -28,3 +28,9 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
     font-weight: bold;
     color: white;
   }
+
+  .banner-text hr {
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto
+  }
