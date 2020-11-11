@@ -12,7 +12,8 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
 
   .avatar-img {
     height: 250px;
-    padding-top: 5em;
+    padding-top: 1em;
+    border-radius: 50%;
   }
 
   .banner-text {
@@ -30,7 +31,13 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
   }
 
   .banner-text hr {
-    border-top: 5px dotted white;
+    border-top: 5px white;
     width: 50%;
     margin: auto
+  }
+
+  .banner-text p {
+    color: white;
+    font-size: 20px;
+    padding: 1em;
   }
