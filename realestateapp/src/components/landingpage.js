@@ -17,10 +17,9 @@ class LandingPage extends Component {
                     <h1>ThisForBliss Real Estate</h1>
                     <hr/>
                     <p> Offering Assistance to |Preforclosures| Tired LandLords| Relief From Mortgages| Investors|</p>
-                        </div>
-                   
-                   
-                  
+
+                </div>   
+                <div><h1>Body of first page</h1></div>
                 </Grid> 
             </div>
         )

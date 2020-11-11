@@ -11,12 +11,13 @@ function App() {
     
     <div className="demo-big-content">
     <Layout>
-        <Header className= "header-color" title="Title" scroll>
+        <Header className= "header-color" title="Menu" scroll>
             <Navigation>
                 <Link to="aboutUs"> About Us</Link>
                 <Link to="cashOffer"> Cash Offer</Link>
                 <Link to="sellerFinance"> Seller Finance</Link>
                 <Link to="investorListings"> investor Listings</Link>
+                <div> <p> CALL US (732) 641-6352 </p></div>
             </Navigation>
         </Header>
         <Drawer title="Title">
