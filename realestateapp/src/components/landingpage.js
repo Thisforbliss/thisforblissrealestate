@@ -17,10 +17,30 @@ class LandingPage extends Component {
                     <h1>ThisForBliss Real Estate</h1>
                     <hr/>
                     <p> Offering Assistance to |Preforclosures| Tired LandLords| Relief From Mortgages| Investors|</p>
-
-                </div>   
-                <div><h1>Body of first page</h1></div>
+                </div>     
                 </Grid> 
+
+                <div><h1>We Give Fair Cash Offers To Properties In All NJ Counties!!!  </h1></div>
+               
+                <p>Selling a house can be stressful, time-consuming, and expensive.  
+                 We can eliminate that stress and give you the peace of mind that comes 
+                 with knowing your house hassles are completely done – without having to 
+                 fix it up, show it, wait for buyer financing, or evict the tenants.
+                 And, it all happens SO FAST. </p>
+
+                 <h5>We work with people every week who need to sell their house fast.
+                     Also with people that want out of their current mortgage for your
+                     own personal reason.
+                 </h5>
+
+                 <p>From people in foreclosure, going through a divorce, relocating and 
+                     can’t sell their house, those who own a vacant house they don’t want 
+                     to deal with any more… to landlords tired of dealing with tenants,
+                      people who inherited a house they don’t want, good folks who lost 
+                      their job and just can’t afford the payment any more and can’t afford 
+                      to pay a real estate agent their fees to sell it, to people who owe 
+                      more on their house than it’s worth and listing with an agent just 
+                      isn’t an option. </p>
             </div>
         )
     }
