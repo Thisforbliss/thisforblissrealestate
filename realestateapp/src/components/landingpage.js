@@ -41,6 +41,34 @@ class LandingPage extends Component {
                       to pay a real estate agent their fees to sell it, to people who owe 
                       more on their house than it’s worth and listing with an agent just 
                       isn’t an option. </p>
+
+                <p>What all of these people we help have in common is… </p>
+               <ul> 
+                   <li>They deserve to receive fair treatment. </li> 
+                   <li> They need a quick solution that puts cash in their pocket right away. </li>
+                   <li> They shouldn’t have to pay all of the extra cash for real estate agent fees, closing fees, etc. </li>
+                   <li>They just want to end the headache this house is giving them. </li>
+               </ul> 
+
+               <p>… and we can help them achieve all of these. </p>
+               <p> If you want to sell your house, just fill out the quick form below. <strong>Or give us a call right now at  (732) 641-6352.</strong></p>
+            
+
+                <h2>Sell Your House Now</h2>
+
+                <h4> Put Form Here</h4>
+
+                <h4>So Who are we? </h4>
+                <p> ThisForBliss Real Estate is the Monmouth County area’s most respected house buying service. We are a highly experienced home buying team that is focused on helping homeowners like you to sell your house fast, without any hassle, games, or fees, and we’re committed to delivering this service with transparency and integrity throughout the entire experience.
+
+We buy houses all over the country, including Monmouth County and surrounding areas. We know the area, which means our home buying team can help you sell your house fast no matter where it is or what condition it’s in (and even if there are tenants).
+
+Again, we’re not agents who are trying to sell your house to others. We are professional house buyers, which means we have our own cash and are ready to buy. We can even make you an offer on the spot. Once we make you an offer you can choose whether or not you want to take that offer (and you can even shop it around if you want, talk it over with others, and think about it before deciding). We have a strict no-pressure policy, and our many previous clients love it and are proof that it works.</p>
+            
+            
+            
+            
+            
             </div>
         )
     }
