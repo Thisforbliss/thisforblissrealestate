@@ -19,8 +19,8 @@ class LandingPage extends Component {
                     <p> Offering Assistance to |Preforclosures| Tired LandLords| Relief From Mortgages| Investors|</p>
                 </div>     
                 </Grid> 
-
-                <div><h1>We Give Fair Cash Offers To Properties In All NJ Counties!!!  </h1></div>
+            
+                <h1 >We Give Fair Cash Offers To Properties In All NJ Counties!!!  </h1>
                
                 <p>Selling a house can be stressful, time-consuming, and expensive.  
                  We can eliminate that stress and give you the peace of mind that comes 
@@ -34,13 +34,13 @@ class LandingPage extends Component {
                  </h5>
 
                  <p>From people in foreclosure, going through a divorce, relocating and 
-                     can’t sell their house, those who own a vacant house they don’t want 
-                     to deal with any more… to landlords tired of dealing with tenants,
-                      people who inherited a house they don’t want, good folks who lost 
-                      their job and just can’t afford the payment any more and can’t afford 
-                      to pay a real estate agent their fees to sell it, to people who owe 
-                      more on their house than it’s worth and listing with an agent just 
-                      isn’t an option. </p>
+                    can’t sell their house, those who own a vacant house they don’t want 
+                    to deal with any more… to landlords tired of dealing with tenants,
+                    people who inherited a house they don’t want, good folks who lost 
+                    their job and just can’t afford the payment any more and can’t afford 
+                    to pay a real estate agent their fees to sell it, to people who owe 
+                    more on their house than it’s worth and listing with an agent just 
+                    isn’t an option. </p>
 
                 <p>What all of these people we help have in common is… </p>
                <ul> 
@@ -59,11 +59,22 @@ class LandingPage extends Component {
                 <h4> Put Form Here</h4>
 
                 <h4>So Who are we? </h4>
-                <p> ThisForBliss Real Estate is the Monmouth County area’s most respected house buying service. We are a highly experienced home buying team that is focused on helping homeowners like you to sell your house fast, without any hassle, games, or fees, and we’re committed to delivering this service with transparency and integrity throughout the entire experience.
+                <p> ThisForBliss Real Estate is the Monmouth County area’s most respected 
+                    house buying service. We are a highly experienced home buying team that 
+                    is focused on helping homeowners like you to sell your house fast,
+                    without any hassle, games, or fees, and we’re committed to delivering 
+                    this service with transparency and integrity throughout the entire experience.
 
-We buy houses all over the country, including Monmouth County and surrounding areas. We know the area, which means our home buying team can help you sell your house fast no matter where it is or what condition it’s in (and even if there are tenants).
+                    We buy houses all over the country, including Monmouth County and surrounding areas. 
+                    We know the area, which means our home buying team can help you sell your house fast 
+                    no matter where it is or what condition it’s in (and even if there are tenants).
 
-Again, we’re not agents who are trying to sell your house to others. We are professional house buyers, which means we have our own cash and are ready to buy. We can even make you an offer on the spot. Once we make you an offer you can choose whether or not you want to take that offer (and you can even shop it around if you want, talk it over with others, and think about it before deciding). We have a strict no-pressure policy, and our many previous clients love it and are proof that it works.</p>
+                    Again, we’re not agents who are trying to sell your house to others. 
+                    We are professional house buyers, which means we have our own cash and are ready to buy. 
+                    We can even make you an offer on the spot. Once we make you an offer you can choose
+                    whether or not you want to take that offer (and you can even shop it around if you want,
+                    talk it over with others, and think about it before deciding). We have a strict 
+                    no-pressure policy, and our many previous clients love it and are proof that it works.</p>
             
             
             

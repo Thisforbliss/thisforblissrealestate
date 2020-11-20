@@ -8,6 +8,8 @@ import {Link} from "react-router-dom"
 
 function App() {
   return (
+
+    
     
     <div className="demo-big-content">
     <Layout>
@@ -15,8 +17,9 @@ function App() {
             <Navigation>
                 <Link to="aboutUs"> About Us</Link>
                 <Link to="cashOffer"> Cash Offer</Link>
-                <Link to="sellerFinance"> Seller Finance</Link>
-                <Link to="investorListings"> investor Listings</Link>
+                <Link to="sellerFinance"> Mortgage Relief</Link>
+                <Link to="investorListings"> Listings</Link>
+                <Link to= "form"> Submit Your Property</Link>
                 <div> <p> CALL US (732) 641-6352 </p></div>
             </Navigation>
         </Header>
@@ -24,8 +27,9 @@ function App() {
             <Navigation>
             <Link to="aboutUs"> About Us</Link>
                 <Link to="cashOffer"> Cash Offer</Link>
-                <Link to="sellerFinance"> Seller Finance</Link>
-                <Link to="investorListings"> investor Listings</Link>
+                <Link to="sellerFinance"> Mortgage Relief</Link>
+                <Link to="investorListings"> Listings</Link>
+                <Link to= "form"> Submit Your Property</Link>
             </Navigation>
         </Drawer>
         <Content>
