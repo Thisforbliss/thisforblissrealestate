@@ -19,7 +19,7 @@ function App() {
                 <Link to="cashOffer"> Cash Offer</Link>
                 <Link to="sellerFinance"> Mortgage Relief</Link>
                 <Link to="investorListings"> Listings</Link>
-                <Link to= "form"> Submit Your Property</Link>
+                <Link to= "form"> Get An Offer!</Link>
                 <div> <p> CALL US (732) 641-6352 </p></div>
             </Navigation>
         </Header>
@@ -29,7 +29,7 @@ function App() {
                 <Link to="cashOffer"> Cash Offer</Link>
                 <Link to="sellerFinance"> Mortgage Relief</Link>
                 <Link to="investorListings"> Listings</Link>
-                <Link to= "form"> Submit Your Property</Link>
+                <Link to= "form"> Get An Offer!</Link>
             </Navigation>
         </Drawer>
         <Content>

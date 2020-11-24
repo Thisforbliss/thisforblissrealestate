@@ -50,7 +50,7 @@ class Forms extends Component {
   
 
   <Button variant="primary" type="submit">
-    Submit
+  Get My Customized Offer >>
   </Button>
 </Form>
 

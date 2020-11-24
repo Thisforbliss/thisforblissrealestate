@@ -16,16 +16,16 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
     border-radius: 50%;
   }
 
-  .banner-text {
+  /* .banner-text {
     background-color: black;
     opacity: .8;
     width: 75%;
     margin: auto;
     border-radius: 10px;
-  }
+  } */
 
   .banner-text h1 {
-    font-size: 66px;
+    font-size: 40px;
     font-weight: bold;
     color: white;
   }
