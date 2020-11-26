@@ -1,58 +1,55 @@
 import React, {Component} from 'react'
-import {Form, Col, Button} from 'react-bootstrap'
+//create action import {addSeller} from '../actions'
+//import {connect} from 'react-redux'
 
+
+//Address
+//Email
+//Phone Number
+//add another component to schedule calls
 class Forms extends Component {
+
+  constructor () {
+    super()
+
+    this.state = {
+      address: '',
+      email: '',
+      phoneNumber: '' 
+    }
+  }
+
+  handleOnChange = event => {
+    console.log(event.target.value)
+    this.setState({
+      [event.target.name] : event.target.value
+    })
+  }
+
+  handleOnSubmit = event => {
+    event.preventDefault()
+
+    this.props.addSeller({
+      address: this.state.address,
+      email: this.state.email,
+      phoneNumber: this.state.phoneNumber  
+    })
+
+    this.setState({
+      address: '',
+      email: '',
+      phoneNumber: ''
+
+    })
+  }
+
     render(){
         return(
            <div>
-                <Form>
-  <Form.Row>
-    <Form.Group as={Col} controlId="formGridEmail">
-      <Form.Label>Email</Form.Label>
-      <Form.Control type="email" placeholder="Enter email" />
-    </Form.Group>
+             <form class= 'seller-form' onsubmit={(event) => this.handleOnSubmit(event)}>
 
-    <Form.Group as={Col} controlId="phoneNumber">
-      <Form.Label>Phone Number</Form.Label>
-      <Form.Control type="phoneNumber" placeholder="Phone Number" />
-    </Form.Group>
-  </Form.Row>
-
-  <Form.Group controlId="formGridAddress1">
-    <Form.Label>Address</Form.Label>
-    <Form.Control placeholder="1234 Main St" />
-  </Form.Group>
-
-  <Form.Group controlId="formGridAddress2">
-    <Form.Label>Address 2</Form.Label>
-    <Form.Control placeholder="Apartment, studio, or floor" />
-  </Form.Group>
-
-  <Form.Row>
-    <Form.Group as={Col} controlId="formGridCity">
-      <Form.Label>City</Form.Label>
-      <Form.Control />
-    </Form.Group>
-
-    <Form.Group as={Col} controlId="formGridState">
-      <Form.Label>State</Form.Label>
-      <Form.Control type = "state" placeholder= "State">
-        
-      </Form.Control>
-    </Form.Group>
-
-    <Form.Group as={Col} controlId="formGridZip">
-      <Form.Label>Zip</Form.Label>
-      <Form.Control />
-    </Form.Group>
-  </Form.Row>
-
-  
-
-  <Button variant="primary" type="submit">
-  Get My Customized Offer >>
-  </Button>
-</Form>
+               
+             </form>
 
            </div> 
         )
