@@ -48,7 +48,7 @@ class Forms extends Component {
            <div>
              <form style={{textAlign: 'center'}} class= 'seller-form' onsubmit={(event) => this.handleOnSubmit(event)}>
 
-              <h5>Just fill in this simple form and we will be in touch. Or give us a call at 631-595-0895</h5>
+              <h5>Just fill in this simple form and we will be in touch. Or give us a call at (732) 641-6352</h5>
               <input required type= 'text' name= 'address' value={this.state.address} placeholder = 'address' onChange={(event) => this.handleOnChange(event)} /><br/>
               <input required type= 'text' name= 'email' value={this.state.email} placeholder = 'email' onChange={(event) => this.handleOnChange(event)}/><br/>
               <input required type= 'text' name= 'phoneNumber' value={this.state.phoneNumber} placeholder = 'phoneNumber' onChange={(event) => this.handleOnChange(event)}/><br/>
