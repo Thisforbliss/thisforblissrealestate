@@ -18,10 +18,10 @@ function App() {
             <Navigation>
                 <Link to="/"> Home</Link>
                 <Link to="aboutUs"> About Us</Link>
-                <Link to="cashOffer"> Cash Offer</Link>
-                <Link to="sellerFinance"> Mortgage Relief</Link>
-                <Link to="investorListings"> Listings</Link>
-                <Link to= "form"> Get An Offer!</Link>
+                {/* <Link to="cashOffer"> Cash Offer</Link> */}
+                {/* <Link to="sellerFinance"> Mortgage Relief</Link> */}
+                {/* <Link to="investorListings"> Listings</Link> */}
+                {/* <Link to= "form"> Get An Offer!</Link> */}
                 <Link to= "howItWorks">How it Works</Link>
                 <div> <p><strong>CALL US (732) 641-6352</strong> </p></div>
             </Navigation>
@@ -30,10 +30,10 @@ function App() {
             <Navigation>
                 <Link to="/"> Home</Link>
                 <Link to="aboutUs"> About Us</Link>
-                <Link to="cashOffer"> Cash Offer</Link>
-                <Link to="sellerFinance"> Mortgage Relief</Link>
-                <Link to="investorListings"> Listings</Link>
-                <Link to= "form"> Get An Offer!</Link>
+                {/* <Link to="cashOffer"> Cash Offer</Link> */}
+                {/* <Link to="sellerFinance"> Mortgage Relief</Link> */}
+                {/* <Link to="investorListings"> Listings</Link> */}
+                {/* <Link to= "form"> Get An Offer!</Link> */}
                 <Link to= "howItWorks">How it Works</Link>
             </Navigation>
         </Drawer>
