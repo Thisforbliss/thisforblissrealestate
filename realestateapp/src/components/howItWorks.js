@@ -24,7 +24,7 @@ class howItWorks extends Component {
                      your timeline, while still receiving a fair offer.</p>
 
             <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i1.pickpik.com/photos/130/623/660/people-man-woman-couple-preview.jpg)'}}>Step 1</CardTitle>
+                <CardTitle alt='cardtitle' style={{color: '#fff', height: '176px', background: 'url(https://i1.pickpik.com/photos/130/623/660/people-man-woman-couple-preview.jpg)'}}>Step 1</CardTitle>
                 <CardText>
                 <h5>We review the details of your home and set an appointment to meet with you or receive pictures of your property.</h5>
                 </CardText>
@@ -83,7 +83,7 @@ class howItWorks extends Component {
                       estimate that we have prior to meeting you at the property.
                 </p><br/><br/>
 
-                <img src="https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none"  width="600" height="400"></img>
+                < img src="https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none"  width="600" height="400" alt='cardtitle'></img>
             </div><br/><br/><br/><br/><br/>
              
 
@@ -96,7 +96,7 @@ class howItWorks extends Component {
                  might be needed. Don’t worry though, you are not responsible for making any 
                  repairs. We handle that for you.
                 </p><br/><br/>
-                <img src="https://p1.pxfuel.com/preview/292/644/900/meeting-informal-business-team.jpg"  width="600" height="400"></img>
+                <img src="https://p1.pxfuel.com/preview/292/644/900/meeting-informal-business-team.jpg" alt='cardtitle' width="600" height="400"></img>
             </div><br/><br/><br/><br/><br/>
 
             <div className= "body-three">
@@ -115,7 +115,7 @@ class howItWorks extends Component {
                      is signed, you receive your check or wire with the proceeds from the sale.
                      </p><br/><br/>
 
-                     <img src="https://p1.pxfuel.com/preview/795/156/847/checklist-choice-priorities-survey.jpg"  width="600" height="400"></img>
+                     <img src="https://p1.pxfuel.com/preview/795/156/847/checklist-choice-priorities-survey.jpg" alt='cardtitle'  width="600" height="400"></img>
             </div><br/><br/><br/><br/><br/>
 
                 <Form/>
