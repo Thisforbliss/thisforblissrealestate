@@ -55,7 +55,7 @@ function App() {
                 <h6>Email- Thisforbliss@gmail.com </h6>  
             </FooterLinkList>
         </FooterDropDownSection>
-        <FooterDropDownSection title="Details">
+        {/* <FooterDropDownSection title="Details">
             <FooterLinkList>
                 <Link to="#">Specs</Link>
                 <Link to="#">Tools</Link>
@@ -83,7 +83,7 @@ function App() {
         <FooterLinkList>
             <Link to="#">Help</Link>
             <Link to="#">Privacy & Terms</Link>
-        </FooterLinkList>
+        </FooterLinkList> */}
     </FooterSection>
 </Footer>
 
