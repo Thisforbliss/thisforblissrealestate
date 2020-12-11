@@ -12,6 +12,7 @@ class AboutUs extends Component {
             </Grid>
             
             </div>
+            <div className='aboutUs'>
             <h6> ThisForBliss Real Estate is the New Jersey and New York's most respected 
                 house buying service. We are a highly experienced in home buying that 
                 is focused on helping homeowners like you to sell your house fast,
@@ -28,6 +29,8 @@ class AboutUs extends Component {
                 whether or not you want to take that offer (and you can even shop it around if you want,
                 talk it over with others, and think about it before deciding). We have a strict 
                 no-pressure policy, and our many previous clients love it and are proof that it works.</h6>
+            </div>   
+        
         </div>
         )
     }

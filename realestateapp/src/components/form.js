@@ -65,12 +65,13 @@ class Forms extends Component {
              <form style={{textAlign: 'center'}} className= 'seller-form' onSubmit={(event) => this.handleOnSubmit(event)}>
 
               <h5>Just fill in this simple form and we will be in touch. Or give us a call at (732) 641-6352</h5>
-             <div >
+             <div className='formBox' >
 
              
               <input required type= 'text' name= 'address' value={this.state.address} placeholder = 'address' onChange={(event) => this.handleOnChange(event)} /><br/>
               <input required type= 'text' name= 'email' value={this.state.email} placeholder = 'email' onChange={(event) => this.handleOnChange(event)}/><br/>
               <input required type= 'text' name= 'phoneNumber' value={this.state.phoneNumber} placeholder = 'phoneNumber' onChange={(event) => this.handleOnChange(event)}/><br/>
+              {/* <textarea rows="3" cols="35"></textarea> */}
               <Button as='input' type="submit" value="Get Your Offer"/>
               </div>
              </form>

@@ -103,6 +103,19 @@
   padding-top: 102px;
 }
 
+.aboutUs{
+  border: 2px solid gray;
+  padding: 30px;
+}
+
+.aboutUs h6 {
+  text-align: center;
+  font-size: 22px;
+  padding: 20px;
+  letter-spacing: 1px;
+}
+
+
   .banner-text hr {
     border-top: 5px white;
     width: 50%;
@@ -120,14 +133,30 @@
    
   }
 
-  .body{
+  .body {
     text-align: center;
-    font-size: 20px;
+  font-size: 22px;
+  padding: 20px;
+  letter-spacing: 1px;
+  }
+
+  .body p {
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
   }
 
   .body-two{
     text-align: center;
     font-size: 20px;
+  }
+
+  .body-two p {
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
   }
 
   .body-three{
@@ -140,7 +169,10 @@
   }
 
   .body-three p {
-    font-size: 20px;
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
   }
 
   .input-form{
@@ -161,7 +193,12 @@
 
   .seller-form h5 {
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     padding: 1em;
    
+  }
+
+  .formBox{
+    height: 150px;
+    padding: 10px;
   }
