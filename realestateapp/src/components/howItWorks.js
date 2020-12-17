@@ -70,7 +70,7 @@ class howItWorks extends Component {
                     In order to make you the best possible offer, we speak with you about your 
                     property to gather a bit more information. We can speak with you over the 
                     phone, the form below, email, or even text message. You can call or text us
-                     at (631) 381-4783 to get started.
+                     at (732) 641-6352 to get started.
 
                     We gather some basic information about your property before meeting you there.
                      This can include beds, baths, square footage, and any upgrades you’ve done 
