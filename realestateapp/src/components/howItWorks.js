@@ -80,7 +80,7 @@ class howItWorks extends Component {
                     Once we know a bit more about your property, we do some research and take a 
                     look at the recent cash comparables in your area. From there we will be able
                      to come up with an idea of what we can pay for your home. This is just an
-                      estimate that we have prior to meeting you at the property.
+                      estimate that we have prior to meeting you at your property.
                 </p><br/><br/>
 
                 < img src="https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none"  width="600" height="400" alt='cardtitle'></img>
