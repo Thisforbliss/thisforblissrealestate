@@ -69,9 +69,9 @@ class Forms extends Component {
              <div className='formBox' >
 
              
-              <input required type= 'text' name= 'address' value={this.state.address} placeholder = 'address' onChange={(event) => this.handleOnChange(event)} /><br/>
-              <input required type= 'text' name= 'email' value={this.state.email} placeholder = 'email' onChange={(event) => this.handleOnChange(event)}/><br/>
-              <input required type= 'text' name= 'phoneNumber' value={this.state.phoneNumber} placeholder = 'phoneNumber' onChange={(event) => this.handleOnChange(event)}/><br/>
+              <input required class="mdl-textfield__input" type= 'text' name= 'address' value={this.state.address} onChange={(event) => this.handleOnChange(event)} />
+              <input required class="mdl-textfield__input" type= 'text' name= 'email' value={this.state.email}  onChange={(event) => this.handleOnChange(event)}/>
+              <input required class="mdl-textfield__input" type= 'text' name= 'phoneNumber' value={this.state.phoneNumber}  onChange={(event) => this.handleOnChange(event)}/>
               {/* <textarea rows="3" cols="35"></textarea> */}
               <Button as='input' type="submit" value="Get Your Offer"/>
               </div>

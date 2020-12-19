@@ -7,5 +7,28 @@
 .seller-form {
     text-align: center;
     /* border: 5px solid rgb(52, 147, 211); */
-    background-color: #3c5ead;
+    background-color: white;
 }
+
+.seller-form h5 {
+    color:black;
+    font-size: 20px;
+    padding: 1em;
+   
+  }
+
+.formBox{
+    height: 150px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+  }
+
+  .formBox > input {
+      width: 150px;
+      text-align: center;
+
+  }
