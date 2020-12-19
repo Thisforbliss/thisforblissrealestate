@@ -7,8 +7,8 @@
 .seller-form {
     text-align: center;
     border: 5px solid rgb(52, 147, 211);
-    background: linear-gradient(to right, #4286f4, #3c5ead);
-    height: 400px;
+    background: linear-gradient(to right, #7aacfcab, #2b437cb6);
+    height: 450px;
 }
 
 .seller-form h5 {
@@ -32,6 +32,7 @@
       width: 150px;
       text-align: center;
         border-bottom: 1px sold black !important;
+        margin-bottom: 0.5rem;
 
   }
 

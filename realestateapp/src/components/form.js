@@ -4,6 +4,7 @@ import React, {Component} from 'react'
 import "../css/Form.css"
 import {Button} from 'react-bootstrap'
 import emailjs from 'emailjs-com'
+
 //Address
 //Email
 //Phone Number
@@ -77,7 +78,7 @@ class Forms extends Component {
               
 
               {/* <textarea rows="3" cols="35"></textarea> */}
-              <Button as='input' type="submit" value="Get Your Offer"/>
+              <Button variant="primary" as="input" type="button" value="Get Your Offer" />
               </div>
              </form>
            </div> 
