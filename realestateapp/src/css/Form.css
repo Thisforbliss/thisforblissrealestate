@@ -8,7 +8,7 @@
     text-align: center;
     border: 5px solid rgb(52, 147, 211);
     background: linear-gradient(to right, #7aacfcab, #2b437cb6);
-    height: 450px;
+    height: 470px;
 }
 
 .seller-form h5 {
@@ -31,7 +31,7 @@
   .formBox > input {
       width: 150px;
       text-align: center;
-        border-bottom: 1px sold black !important;
+
         margin-bottom: 0.5rem;
 
   }
