@@ -1,0 +1,11 @@
+
+ .input-form{
+    font-size: 20px;
+  }
+
+
+.seller-form {
+    text-align: center;
+    border: 5px solid rgb(52, 147, 211);
+    background: linear-gradient(to right, #4286f4, #3c5ead)
+}

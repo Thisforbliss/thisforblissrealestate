@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 //create action import {addSeller} from '../actions'
 //import {connect} from 'react-redux'
+import "../css/Form.css"
 import {Button} from 'react-bootstrap'
 import emailjs from 'emailjs-com'
 //Address
@@ -61,8 +62,8 @@ class Forms extends Component {
 
     render(){
         return(
-           <div className = "input-form">
-             <form style={{textAlign: 'center'}} className= 'seller-form' onSubmit={(event) => this.handleOnSubmit(event)}>
+           <div className="input-form">
+             <form className="seller-form" onSubmit={(event) => this.handleOnSubmit(event)}>
 
               <h5>Just fill in this simple form and we will be in touch. Or give us a call at (732) 641-6352</h5>
              <div className='formBox' >
