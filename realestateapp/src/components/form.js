@@ -68,10 +68,14 @@ class Forms extends Component {
               <h5>Just fill in this simple form and we will be in touch. Or give us a call at (732) 641-6352</h5>
              <div className='formBox' >
 
-             
-              <input required class="mdl-textfield__input" type= 'text' name= 'address' value={this.state.address} onChange={(event) => this.handleOnChange(event)} />
-              <input required class="mdl-textfield__input" type= 'text' name= 'email' value={this.state.email}  onChange={(event) => this.handleOnChange(event)}/>
-              <input required class="mdl-textfield__input" type= 'text' name= 'phoneNumber' value={this.state.phoneNumber}  onChange={(event) => this.handleOnChange(event)}/>
+             <label htmlFor="phoneNumber">Address</label>
+              <input required class="formInput" id="address" type= 'text' name= 'address' value={this.state.address} onChange={(event) => this.handleOnChange(event)} />
+              <label htmlFor="phoneNumber">Email</label>
+              <input required class="formInput" id="email" type= 'text' name= 'email' value={this.state.email}  onChange={(event) => this.handleOnChange(event)}/>
+              <label htmlFor="phoneNumber">Phone Number</label>
+              <input required class="formInput" id="phoneNumber" type= 'text' name= 'phoneNumber' value={this.state.phoneNumber}  onChange={(event) => this.handleOnChange(event)}/>
+              
+
               {/* <textarea rows="3" cols="35"></textarea> */}
               <Button as='input' type="submit" value="Get Your Offer"/>
               </div>
