@@ -3,10 +3,13 @@ import React, {Component} from 'react'
 //import {connect} from 'react-redux'
 import {Button} from 'react-bootstrap'
 import emailjs from 'emailjs-com'
+import {withRouter} from 'react-router-dom'
+
 //Address
 //Email
 //Phone Number
 //add another component to schedule calls
+
 class Forms extends Component {
 
   constructor () {
@@ -26,6 +29,8 @@ class Forms extends Component {
     })
   }
 
+
+
   handleOnSubmit = event => {
     event.preventDefault()
 
@@ -41,10 +46,10 @@ class Forms extends Component {
       address: '',
       email: '',
       phoneNumber: ''
-
     })
 
     
+    this.props.history.push("/thanks")
   }
 
   sendEmail = e => {
@@ -80,4 +85,4 @@ class Forms extends Component {
     }
 }
 
-export default Forms
+export default withRouter(Forms)

@@ -202,3 +202,11 @@
     height: 150px;
     padding: 10px;
   }
+
+  .thanks{
+    text-align: center;
+  }
+
+  .thanks p{
+    font-size: 30px;
+  }

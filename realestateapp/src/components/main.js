@@ -7,6 +7,7 @@ import SellerFinance from './sellerfinance'
 import CashOffer from './cashoffer'
 import Forms from './form'
 import howItWorks from './howItWorks'
+import Thanks from './thankyou'
 
 const Main = () => (
     <Switch>
@@ -17,6 +18,8 @@ const Main = () => (
         <Route  path ="/investorListings" component={Listings} />
         <Route  path = "/form" component ={Forms} />
         <Route  path = "/howItWorks" component ={howItWorks} />
+        <Route  path = "/thanks" component={Thanks}/>
+        
     </Switch>
 )
 
