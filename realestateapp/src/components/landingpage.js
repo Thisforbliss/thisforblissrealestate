@@ -25,7 +25,7 @@ class LandingPage extends Component {
                 </div> 
 
                 <div className='advertisment'>
-                <iframe title="ad" width="560" height="460" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?controls=0" frameBorder="0" 
+                <iframe title="ad" width="560" height="460" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?autoplay=1&controls=0" frameBorder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
 
