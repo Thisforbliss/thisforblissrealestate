@@ -65,6 +65,11 @@ class howItWorks extends Component {
 
             <div className= 'body'>
 
+            <div className='advertisment'>
+                <iframe title="ad" width="560" height="460" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?autoplay=1&controls=0" frameBorder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                </div>
+                
                 <h1> 1) Tell Us About Your Property</h1><br/>
                 <p>
                     In order to make you the best possible offer, we speak with you about your 
