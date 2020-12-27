@@ -35,7 +35,7 @@ class LandingPage extends Component {
                 <h1 >We Give Fair Cash Offers To Properties In All NJ Counties!!!  </h1>
 
                 <div className='advertisment'>
-                <iframe title="ad" width="560" height="460" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?autoplay=1&controls=0" frameBorder="0" 
+                <iframe title="ad" width="860" height="560" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?autoplay=1&controls=0" frameBorder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
                
