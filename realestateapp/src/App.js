@@ -47,10 +47,10 @@ function App() {
         <FooterDropDownSection title="Features">
             <FooterLinkList>
                
-                <Link to="#">About</Link>
-                <Link to="#">Terms</Link>
+                <Link to="aboutUs">About</Link>
+                {/* <Link to="#">Terms</Link>
                 <Link to="#">Partners</Link>
-                <Link to="#">Updates</Link>
+                <Link to="#">Updates</Link> */}
                 <h6>Contact Us- (732) 641-6352</h6>
                 <h6>Email- Thisforbliss@gmail.com </h6>  
             </FooterLinkList>
