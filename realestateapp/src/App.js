@@ -44,7 +44,7 @@ function App() {
 
         <Footer size="mega">
     <FooterSection type="middle">
-        <FooterDropDownSection title="Features">
+        <FooterDropDownSection title="Contact Us">
             <FooterLinkList>
                
                 <Link to="aboutUs">About</Link>
