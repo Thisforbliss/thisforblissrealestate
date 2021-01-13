@@ -101,7 +101,7 @@ class howItWorks extends Component {
                  might be needed. Don’t worry though, you are not responsible for making any 
                  repairs. We handle that for you.
                 </p><br/><br/>
-                <img src="https://p1.pxfuel.com/preview/292/644/900/meeting-informal-business-team.jpg" alt='cardtitle' width="600" height="400"></img>
+                <img src="https://p1.pxfuel.com/preview/292/644/900/meeting-informal-business-team.jpg" alt='cardtitle' width="512px" margin="auto" ></img>
             </div><br/><br/><br/><br/><br/>
 
             <div className= "body-three">
