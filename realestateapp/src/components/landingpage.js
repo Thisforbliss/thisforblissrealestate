@@ -39,40 +39,50 @@ class LandingPage extends Component {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                 </div>
                
-                <p>Selling a house can be stressful, time-consuming, and expensive.  
+                <p><strong>
+                     Selling a house can be stressful, time-consuming, and expensive.  
                  We can eliminate that stress and give you the peace of mind that comes 
                  with knowing your house hassles are completely done – without having to 
                  fix it up, show it, wait for buyer financing, or evict the tenants.
-                 And, it all happens SO FAST. </p>
+                 And, it all happens SO FAST.
+                </strong> </p>
 
-                 <h5>We work with people every week who need to sell their house fast.
+                <h5><strong>
+                     We work with people every week who need to sell their house fast.
                      Also with people that want out of their current mortgage for your
                      own personal reason.
-                 </h5>
+                </strong></h5>
+                 
 
-                 <p>From people in foreclosure, going through a divorce, relocating and 
+                <p><strong>
+                    From people in foreclosure, going through a divorce, relocating and 
                     can’t sell their house, those who own a vacant house they don’t want 
                     to deal with any more… to landlords tired of dealing with tenants,
                     people who inherited a house they don’t want, good folks who lost 
                     their job and just can’t afford the payment any more and can’t afford 
                     to pay a real estate agent their fees to sell it, to people who owe 
                     more on their house than it’s worth and listing with an agent just 
-                    isn’t an option. </p>
+                    isn’t an option.
+                </strong> </p>
 
-                <p>What all of these people we help have in common is… </p>
-               <ul> 
+                <p><strong>What all of these people we help have in common is… </strong> </p>
+
+               <ul><strong>
                    
-                   <p>They deserve to receive fair treatment. </p> 
-                   <p> They need a quick solution that puts cash in their pocket right away. </p>
-                   <p> They shouldn’t have to pay all of the extra cash for real estate agent fees, closing fees, etc. </p>
-                   <p>They just want to end the headache this house is giving them. </p>
-               </ul> 
+                   <p><strong>They deserve to receive fair treatment.</strong> </p> 
+                   <p> <strong>They need a quick solution that puts cash in their pocket right away.</strong> </p>
+                   <p><strong>They shouldn’t have to pay all of the extra cash for real estate agent fees, closing fees, etc.</strong>  </p>
+                   <p><strong>They just want to end the headache this house is giving them.</strong> </p>
+               </strong> </ul> 
 
-               <p>… and we can help them achieve all of these. </p>
-               <p> If you want to sell your house, just fill out the quick form below. <strong>Or give us a call right now at  (732) 641-6352.</strong></p>
+               <p><strong>… and we can help them achieve all of these.</strong> </p>
+               <p> <strong>If you want to sell your house, just fill out the quick form below. <h2>Or give us a call right now at  (732) 641-6352.</h2></strong></p>
             
 
-                <h2>Just Leave The Key To Us</h2>
+                <h2><strong>Just Leave The Key To Us</strong></h2>
+
+
+             
 
                 </div>
 
