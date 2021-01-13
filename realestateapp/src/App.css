@@ -133,6 +133,10 @@
    
   }
 
+  .redfont p {
+    color: rgb(221, 44, 44);
+  }
+
   .body {
     text-align: center;
   font-size: 22px;

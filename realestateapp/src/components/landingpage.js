@@ -68,11 +68,12 @@ class LandingPage extends Component {
                 <p><strong>What all of these people we help have in common is… </strong> </p>
 
                <ul><strong>
-                   
+                   <div className= "redfont">
                    <p><strong>They deserve to receive fair treatment.</strong> </p> 
                    <p> <strong>They need a quick solution that puts cash in their pocket right away.</strong> </p>
                    <p><strong>They shouldn’t have to pay all of the extra cash for real estate agent fees, closing fees, etc.</strong>  </p>
                    <p><strong>They just want to end the headache this house is giving them.</strong> </p>
+                   </div>
                </strong> </ul> 
 
                <p><strong>… and we can help them achieve all of these.</strong> </p>
