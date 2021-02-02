@@ -124,6 +124,8 @@ class howItWorks extends Component {
             </div><br/><br/><br/><br/><br/>
 
                 <Form/>
+                
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9339760.js"></script>
 
               </div>
         )
