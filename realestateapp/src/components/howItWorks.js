@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import {Grid, Cell, CardActions, Button, CardMenu, IconButton, Card, CardTitle, CardText} from 'react-mdl'
 import Form from './form'
+import Img from './Offer_Photo.jpg'
 class howItWorks extends Component {
     render(){
         return(
@@ -87,7 +88,7 @@ class howItWorks extends Component {
                      to come up with an idea of what we can pay for your home. This is just an
                       estimate that we have prior to meeting you at your property.
                 </p><br/><br/>
-
+                
                 < img src="https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none"  position= 'center' width="512px" margin="auto" alt='cardtitle'></img>
             </div><br/><br/><br/><br/><br/>
              
@@ -101,7 +102,7 @@ class howItWorks extends Component {
                  might be needed. Don’t worry though, you are not responsible for making any 
                  repairs. We handle that for you.
                 </p><br/><br/>
-                <img src="https://p1.pxfuel.com/preview/292/644/900/meeting-informal-business-team.jpg" alt='cardtitle' width="512px" margin="auto" ></img>
+                <img src= {Img}/>               
             </div><br/><br/><br/><br/><br/>
 
             <div className= "body-three">
