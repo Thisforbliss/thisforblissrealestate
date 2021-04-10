@@ -6,33 +6,25 @@ import Form from './form'
 class LandingPage extends Component {
     render(){
         return(
-            <div style={{width: '100%', margin: 'auto'}}>
-            <Grid className= "landing-grid">
-                <Cell col={12}></Cell>
-                {/* <img
-                    src= "https://bn1303files.storage.live.com/y4mYwWexxC9eA68bMlGkjOgeY2KZVjuaV_RgjMS17pCXkUssWy5NZkQ8soNLzNzB7K2Ps8FExfHIkcubvjSs6L79unLSGWQqzxdTLkos3M54N0xM01dexSSN8PCuXhzQ7VV0sCSjzF_I3s40AfB4V3inFRxL9sh0l2cYeqEj-2KWPc7CIua2IjUUM4Wujtz0Cc9bYhtZF5v6Rnd0qBHAuZLUg/ADS_0020.jpg?psid=1&width=1076&height=717 "
-                    alt = "avatar"
-                    className="avatar-img"
-                /> */}
-                <div  className='banner-text'>
+                <div style={{width: '100%', margin: 'auto'}}>
+
+                <Grid className= "landing-grid">
+                    <Cell col={12}></Cell>
+              
+                    <div className='banner-text'>
                     
-                    <h1  >Get Multiple Offers From The Comfort Of Home </h1> 
-                    <hr/>
-                    <p> Offering Assistance to |Preforclosures| Tired LandLords| Relief From Mortgages| Investors|</p>
+                        <h1>Get Multiple Offers From The Comfort Of Home </h1> 
+                        <hr/>
+                        <p> Offering Assistance to |Preforclosures| Tired LandLords| Relief From Mortgages| Investors|</p>
                     <Form/>
- 
-                
-
-                </div> 
-
-                
+                    </div>                 
                 </Grid> 
 
                
 
                 <div className= 'body'>
                 
-                <h1 >We Give Fair Cash Offers To Properties In All NJ Counties!!!  </h1>
+                <h1>We Give Fair Cash Offers To Properties In All NJ Counties!!!</h1>
 
                 <div className='advertisment'>
                 <iframe title="ad" width="860" height="560" src="https://www.youtube-nocookie.com/embed/CU1oyQvcqQg?autoplay=1&controls=0" frameBorder="0" 
@@ -84,7 +76,7 @@ class LandingPage extends Component {
 
 
               
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9339760.js"></script>
+                <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9339760.js"></script>
 
 
                 </div>

@@ -99,10 +99,10 @@ class howItWorks extends Component {
                 Since we are a local home buying company on Long Island, we will meet you at your
                  property at a time that works best for you. We walk your property with you and 
                  discuss some of the details of your home to get the best idea of what repairs 
-                 might be needed. Don’t worry though, you are not responsible for making any 
+                 might be needed. Don’t worry though, you are not responsible for making any  
                  repairs. We handle that for you.
                 </p><br/><br/>
-                <img src= {Img}/>               
+                {/* <img src= {Img}/>                */}
             </div><br/><br/><br/><br/><br/>
 
             <div className= "body-three">

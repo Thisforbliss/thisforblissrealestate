@@ -11,7 +11,7 @@ class Thanks extends Component {
 
                 <p> 
                     A team member would reach out to you in less than 24 hours. 
-                    If you need faster assistance call (732) 641-6352 and ask to speak to Malcolm.
+                    If you need faster assistance call (732) 641-6352.
                 </p> <br/><br/><br/>
 
                 <h4>Sincerly, <br/>

@@ -20,11 +20,10 @@ class AboutUs extends Component {
                 without any hassle, games, or fees, and we’re committed to delivering 
                 this service with transparency and integrity throughout the entire experience.
 
-                We buy houses all over the country, including New Jersey and New York and surrounding areas. 
+                We buy houses all over the country, including New Jersey and New York. 
                 We know the area, which means our home buying team can help you sell your house fast 
                 no matter where it is or what condition it’s in (and even if there are tenants).
-
-                Again, we’re not agents who are trying to sell your house to others. 
+ 
                 We are professional house buyers, which means we have our own cash and are ready to buy. 
                 We can even make you an offer on the spot. Once we make you an offer you can choose
                 whether or not you want to take that offer (and you can even shop it around if you want,

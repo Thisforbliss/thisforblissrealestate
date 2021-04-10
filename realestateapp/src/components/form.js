@@ -5,10 +5,6 @@ import {Button} from 'react-bootstrap'
 import emailjs from 'emailjs-com'
 import {withRouter} from 'react-router-dom'
 
-//Address
-//Email
-//Phone Number
-//add another component to schedule calls
 
 class Forms extends Component {
 
@@ -35,12 +31,6 @@ class Forms extends Component {
     event.preventDefault()
 
     this.sendEmail()
-
-    // this.props.addSeller({
-    //   address: this.state.address,
-    //   email: this.state.email,
-    //   phoneNumber: this.state.phoneNumber  
-    // })
 
     this.setState({
       address: '',
