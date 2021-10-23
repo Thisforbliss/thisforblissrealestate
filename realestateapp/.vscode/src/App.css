@@ -1,0 +1,223 @@
+.header-color {
+  background: #373B44;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+
+.landing-grid {background: #373B44;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-position: center;
+  background-image: url("https://bn1303files.storage.live.com/y4mYwWexxC9eA68bMlGkjOgeY2KZVjuaV_RgjMS17pCXkUssWy5NZkQ8soNLzNzB7K2Ps8FExfHIkcubvjSs6L79unLSGWQqzxdTLkos3M54N0xM01dexSSN8PCuXhzQ7VV0sCSjzF_I3s40AfB4V3inFRxL9sh0l2cYeqEj-2KWPc7CIua2IjUUM4Wujtz0Cc9bYhtZF5v6Rnd0qBHAuZLUg/ADS_0020.jpg?psid=1&width=1076&height=717 ");
+ 
+}
+
+
+.how-grid {background: #373B44;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-position: center;
+  background-image: url("https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none");
+ 
+}
+
+.how-grid h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  padding: 16px;
+  text-align: center;
+ }
+
+ .steps-grid {background: #dde1e9;  /* fallback for old browsers */
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-position: center;
+ }
+
+ .steps-grid p {
+  font-size: 25px;
+  padding: 50px;
+  text-align: center;
+ }
+
+.about-us{
+  text-align: center;
+  padding: 50px;
+  background-position: center;
+  background-image: url("https://bn1303files.storage.live.com/y4mXfcFebdLEuOPWCwQNufm0i0CUQN094wIb7sdvLO7HRAGnxneSTIhZJQ8iYx7doxqc9PfZY8lWcIFQ6AjX1yZWv_qRMuBLqe_h6ijO2D-eOsIQxpU02fWhjYIx7JtuJmkPNkGmUYeMCI231l7C0V3c-Yu5jDp8f5_f1Awl7pgKFH1rJaaD0T69lJWm3YLz8bX?width=5505&height=3670&cropmode=none");
+ 
+}
+
+.about-us h4 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
+  .avatar-img {
+    height: 250px;
+    padding-top: 1em;
+    border-radius: 50%;
+  }
+
+  .banner-text {
+    background-color: black;
+    opacity: .8;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+  }
+
+  .banner-text h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding: 16px;
+    text-align: center;
+  }
+
+  .banner-text p {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .header-color {
+    /* position: fixed; */
+    top: 0;
+    width: 100%
+  }
+
+  have to implement the scroll not being covered  by navbar
+
+
+.header-color + .content {
+  padding-top: 102px;
+}
+
+.aboutUs{
+  border: 2px solid gray;
+  padding: 30px;
+}
+
+.aboutUs h6 {
+  text-align: center;
+  font-size: 22px;
+  padding: 20px;
+  letter-spacing: 1px;
+}
+
+
+  .banner-text hr {
+    border-top: 5px white;
+    width: 50%;
+    margin: auto
+  }
+
+  .banner-text p {
+    color: white;
+    font-size: 20px;
+    padding: 1em;
+  }
+
+  .banner-text{
+    
+   
+  }
+
+  .redfont p {
+    color: rgb(221, 44, 44);
+  }
+
+  .body {
+    text-align: center;
+  font-size: 22px;
+  padding: 20px;
+  letter-spacing: 1px;
+  }
+
+  .body p {
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
+  }
+
+  .body-two{
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .body-two p {
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
+  }
+
+  .body-three{
+    text-align: center;
+   
+  }
+
+  .body-two p{
+  font-size: 20px;
+  }
+
+  .body-three p {
+    text-align: center;
+    font-size: 22px;
+    padding: 20px;
+    letter-spacing: 1px;
+  }
+
+  .input-form{
+    font-size: 20px;
+  }
+  .body p{
+    font-size: 20px;
+  }
+
+  .house{
+    background-position: center;
+  }
+  .seller-form {
+    text-align: center;
+    border: 5px solid rgb(52, 147, 211);
+    background: linear-gradient(to right, #4286f4, #3c5ead)
+    }
+
+  .seller-form h5 {
+    color: white;
+    font-size: 20px;
+    padding: 1em;
+   
+  }
+
+  .formBox{
+    height: 150px;
+    padding: 10px;
+  }
+
+  .thanks{
+    text-align: center;
+  }
+
+  .thanks p{
+    font-size: 30px;
+  }
+
+  .advertisment{
+    background-position: center;
+    
+  }
+
+ 
