@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {Grid, Cell, CardActions, Button, CardMenu, IconButton, Card, CardTitle, CardText} from 'react-mdl'
 import Form from './form'
-import Img from './Offer_Photo.jpg'
+// import Img from './Offer_Photo.jpg'
 class howItWorks extends Component {
     render(){
         return(
